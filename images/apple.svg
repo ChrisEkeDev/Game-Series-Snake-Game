@@ -1,0 +1,46 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_37_132)">
+<rect width="500" height="500" fill="#BAA68D"/>
+<circle cx="49.5" cy="49.5" r="3.5" fill="#D5C8B9"/>
+<circle cx="423.5" cy="461.5" r="3.5" fill="#D5C8B9"/>
+<circle cx="390.5" cy="168.5" r="3.5" fill="#D5C8B9"/>
+<circle cx="52.5" cy="266.5" r="3.5" fill="#D5C8B9"/>
+<circle cx="188.5" cy="391.5" r="3.5" fill="#D5C8B9"/>
+<circle cx="181.5" cy="89.5" r="3.5" fill="#D5C8B9"/>
+<circle cx="426.5" cy="42.5" r="3.5" fill="#D5C8B9"/>
+<circle cx="441.5" cy="296.5" r="3.5" fill="#D5C8B9"/>
+<circle cx="246.5" cy="259.5" r="3.5" fill="#D5C8B9"/>
+<circle cx="85.5" cy="124.5" r="7.5" fill="#D5C8B9"/>
+<circle cx="342.5" cy="89.5" r="7.5" fill="#D5C8B9"/>
+<circle cx="457.5" cy="213.5" r="7.5" fill="#D5C8B9"/>
+<circle cx="283.5" cy="327.5" r="7.5" fill="#D5C8B9"/>
+<circle cx="266.5" cy="457.5" r="7.5" fill="#D5C8B9"/>
+<circle cx="59.5" cy="373.5" r="7.5" fill="#D5C8B9"/>
+<circle cx="211.5" cy="168.5" r="3.5" fill="#A48B6C"/>
+<circle cx="258.5" cy="52.5" r="3.5" fill="#A48B6C"/>
+<circle cx="437.5" cy="113.5" r="3.5" fill="#A48B6C"/>
+<circle cx="380.5" cy="256.5" r="3.5" fill="#A48B6C"/>
+<circle cx="454.5" cy="369.5" r="3.5" fill="#A48B6C"/>
+<circle cx="335.5" cy="419.5" r="3.5" fill="#A48B6C"/>
+<circle cx="108.5" cy="324.5" r="3.5" fill="#A48B6C"/>
+<circle cx="42.5" cy="187.5" r="3.5" fill="#A48B6C"/>
+<circle cx="56.5" cy="454.5" r="3.5" fill="#A48B6C"/>
+<circle cx="134.5" cy="45.5" r="7.5" fill="#A48B6C"/>
+<circle cx="157.5" cy="242.5" r="7.5" fill="#A48B6C"/>
+<circle cx="298.5" cy="171.5" r="7.5" fill="#A48B6C"/>
+<circle cx="383.5" cy="342.5" r="7.5" fill="#A48B6C"/>
+<circle cx="149.5" cy="454.5" r="7.5" fill="#A48B6C"/>
+<g clip-path="url(#clip1_37_132)">
+<path d="M75 275C75 215.391 102.891 150 162.5 150C183.828 150 209.141 158.047 227.109 165.078C241.797 170.781 258.281 170.781 272.969 165.078C290.859 158.125 316.25 150 337.578 150C397.188 150 425.078 215.391 425.078 275C425.078 375 362.578 450 300.078 450C287.188 450 270.312 444.844 259.844 441.172C253.516 438.984 246.641 438.984 240.312 441.172C229.844 444.844 212.969 450 200.078 450C137.5 450 75 375 75 275Z" fill="#EE3535"/>
+<path d="M250 137.5C243.125 137.5 237.5 131.875 237.5 125V112.5C237.5 77.9688 265.469 50 300 50H312.5C319.375 50 325 55.625 325 62.5V75C325 109.531 297.031 137.5 262.5 137.5H250Z" fill="#01D757"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_37_132">
+<rect width="500" height="500" fill="white"/>
+</clipPath>
+<clipPath id="clip1_37_132">
+<rect width="350" height="400" fill="white" transform="translate(75 50)"/>
+</clipPath>
+</defs>
+</svg>

@@ -55,7 +55,38 @@ header {
 
 /*                                                 */
 
+#grid {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #BAA68D;
+}
 
+.game_square {
+    background-image: url('images/dirt.svg');
+    height: 70px;
+    width: 70px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.snake-head {
+    background-color: green ;
+}
+
+.snake {
+    background-image: url('images/snake.svg');
+}
+
+.snake-tail {
+    background-color: green;
+}
+
+.apple {
+    background-image: url('images/apple.svg');
+}
 
 /*                                                 */
 
